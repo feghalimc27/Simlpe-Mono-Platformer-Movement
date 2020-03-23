@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Test.csproj",
+        "packagesPath": "/Users/mario/.nuget/packages/",
+        "outputPath": "/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mario/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "MonoGame.Content.Builder": {
+              "target": "Package",
+              "version": "[3.7.0.9, )"
+            },
+            "MonoGame.Framework.DesktopGL.Core": {
+              "target": "Package",
+              "version": "[3.7.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

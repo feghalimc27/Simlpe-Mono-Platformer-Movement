@@ -1,0 +1,12 @@
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/Debug/netcoreapp2.0/Test.csprojAssemblyReference.cache
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfoInputs.cache
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/Debug/netcoreapp2.0/Test.AssemblyInfo.cs
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Test.deps.json
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Test.runtimeconfig.json
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Test.runtimeconfig.dev.json
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Test.dll
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Test.pdb
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/Debug/netcoreapp2.0/Test.dll
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/obj/Debug/netcoreapp2.0/Test.pdb
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Content/debugFont.xnb
+/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/bin/Debug/netcoreapp2.0/Content/shonk.xnb

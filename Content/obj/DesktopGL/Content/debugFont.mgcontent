@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Content/debugFont.spritefont</SourceFile>
+  <SourceTime>2019-12-16T17:04:58.3680935-07:00</SourceTime>
+  <DestFile>/Users/mario/Personal Test Meme/MonoGame Test/Test Thing/Test/Content/bin/DesktopGL/Content/debugFont.xnb</DestFile>
+  <DestTime>2019-12-16T17:05:01.9902914-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-08-05T16:49:54-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-08-05T16:49:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
